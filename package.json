@@ -1,0 +1,16 @@
+{
+  "name": "fev-robotics-simulator",
+  "version": "1.0.0",
+  "description": "Web-based AI Robotics Simulator demonstrating a virtual robot and AI chatbot.",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "author": "Feven-tec",
+  "license": "MIT"
+}
